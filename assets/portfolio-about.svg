@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1416" height="867" viewBox="0 0 1416 867" role="img" aria-label="Personal portfolio about section screenshot mockup">
+  <defs>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffbe00"/><stop offset="1" stop-color="#ff5a00"/></linearGradient>
+    <radialGradient id="avatar" cx=".5" cy=".5" r=".55"><stop offset="0" stop-color="#1b5a8a"/><stop offset=".6" stop-color="#08213a"/><stop offset="1" stop-color="#000"/></radialGradient>
+  </defs>
+  <rect width="1416" height="867" fill="#050505"/>
+  <rect x="461" y="8" width="474" height="51" rx="26" fill="#080808" stroke="#d29200"/>
+  <g font-family="Arial" font-size="14" fill="#fff" font-weight="700" text-anchor="middle">
+    <text x="514" y="39">من أنا</text><text x="604" y="39">أعمل في</text><text x="699" y="39">مشاريعي</text><text x="795" y="39">مسيرتي</text><text x="879" y="39">تواصل معي</text>
+  </g>
+  <rect x="699" y="121" width="22" height="38" rx="11" fill="none" stroke="#e89b00" stroke-width="3"/>
+  <g transform="translate(210 350)">
+    <circle cx="166" cy="190" r="135" fill="url(#avatar)" stroke="#b77b00" stroke-width="3"/>
+    <circle cx="166" cy="190" r="74" fill="#111"/>
+    <ellipse cx="166" cy="165" rx="38" ry="47" fill="#e6bf9d"/>
+    <rect x="111" y="214" width="110" height="96" rx="42" fill="#080808"/>
+    <path d="M101 153c33-62 117-65 143 4-30-20-77-23-143-4z" fill="#171717"/>
+    <g font-family="Arial" font-size="24" text-anchor="middle" font-weight="900">
+      <circle cx="99" cy="19" r="17" fill="#0b54d8" stroke="#e1a000" stroke-width="3"/><text x="99" y="28" fill="#fff" transform="rotate(-15 99 19)">JS</text>
+      <circle cx="277" cy="149" r="17" fill="#fa5b13" stroke="#e1a000" stroke-width="3"/><text x="277" y="158" fill="#fff">5</text>
+      <circle cx="57" cy="218" r="17" fill="#1594e6" stroke="#e1a000" stroke-width="3"/><text x="57" y="227" fill="#fff">C</text>
+      <circle cx="236" cy="357" r="17" fill="#1497e2" stroke="#e1a000" stroke-width="3"/><text x="236" y="366" fill="#fff">TS</text>
+    </g>
+  </g>
+  <g transform="translate(729 300)" font-family="Arial">
+    <text x="0" y="36" fill="#fff" font-size="50" font-weight="900">About Me</text>
+    <rect x="0" y="55" width="137" height="5" fill="#ffb000"/>
+    <text x="0" y="86" fill="#e5e5e5" font-size="20">I'm Mohammed Almomani, a Full Stack Developer &amp; UI Engineer</text>
+    <text x="0" y="116" fill="#e5e5e5" font-size="20">passionate about AI. With 2+ years of experience crafting high-</text>
+    <text x="0" y="146" fill="#e5e5e5" font-size="20">performance web applications, I blend cutting-edge AI with robust</text>
+    <text x="0" y="176" fill="#e5e5e5" font-size="20">engineering to deliver unforgettable digital experiences.</text>
+    <g text-anchor="middle">
+      <rect x="0" y="272" width="180" height="93" rx="12" fill="#0d0b08" stroke="#7b5200"/><text x="90" y="319" fill="#ffbe00" font-size="30" font-weight="900">3</text><text x="90" y="344" fill="#aaa" font-size="14">Years Exp</text>
+      <rect x="198" y="272" width="180" height="93" rx="12" fill="#0d0b08" stroke="#7b5200"/><text x="288" y="319" fill="#ffbe00" font-size="30" font-weight="900">28</text><text x="288" y="344" fill="#aaa" font-size="14">Projects</text>
+      <rect x="395" y="272" width="180" height="93" rx="12" fill="#0d0b08" stroke="#7b5200"/><text x="485" y="319" fill="#ffbe00" font-size="30" font-weight="900">7</text><text x="485" y="344" fill="#aaa" font-size="14">Clients</text>
+    </g>
+    <g fill="#111" stroke="#8e6100" font-size="14" text-anchor="middle">
+      <rect x="0" y="398" width="112" height="39" rx="20"/><text x="56" y="423" fill="#fff" stroke="none">React/Next.js</text>
+      <rect x="126" y="398" width="78" height="39" rx="20"/><text x="165" y="423" fill="#fff" stroke="none">Node.js</text>
+      <rect x="217" y="398" width="80" height="39" rx="20"/><text x="257" y="423" fill="#fff" stroke="none">Python</text>
+      <rect x="310" y="398" width="98" height="39" rx="20"/><text x="359" y="423" fill="#fff" stroke="none">TensorFlow</text>
+      <rect x="421" y="398" width="98" height="39" rx="20"/><text x="470" y="423" fill="#fff" stroke="none">TypeScript</text>
+    </g>
+  </g>
+</svg>

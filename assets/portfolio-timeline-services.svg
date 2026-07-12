@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1429" height="895" viewBox="0 0 1429 895" role="img" aria-label="Personal portfolio timeline and services screenshot mockup">
+  <rect width="1429" height="895" fill="#050505"/>
+  <rect x="553" y="6" width="316" height="36" rx="18" fill="#080808" stroke="#d29200"/>
+  <g font-family="Arial" font-size="11" fill="#fff" font-weight="700" text-anchor="middle">
+    <text x="591" y="28">من أنا</text><text x="651" y="28">أعمل في</text><text x="714" y="28">مشاريعي</text><text x="781" y="28">مسيرتي</text><text x="839" y="28">تواصل معي</text>
+  </g>
+  <text x="714" y="132" fill="#fff" font-family="Arial Black, Arial" font-size="24" text-anchor="middle">Experience <tspan fill="#ff9d00">Timeline</tspan></text>
+  <g transform="translate(337 174)" font-family="Arial">
+    <line x1="1" y1="0" x2="1" y2="354" stroke="#c88600" stroke-width="2"/>
+    <circle cx="1" cy="7" r="7" fill="#ffad00"/><circle cx="1" cy="140" r="7" fill="#ffad00"/><circle cx="1" cy="255" r="7" fill="#ffad00"/>
+    <g transform="translate(23 0)"><rect width="574" height="106" rx="10" fill="#0e0b07" stroke="#8f6100"/><text x="14" y="27" fill="#fff" font-size="14" font-weight="900">Lead Full Stack Engineer</text><text x="14" y="48" fill="#ffc400" font-size="10" font-weight="700">TechNova AI · 2023 - Present</text><text x="14" y="70" fill="#e1e1e1" font-size="12">Architecting enterprise AI platforms and leading frontend innovation with a team of 5 engineers, delivering high-</text><text x="14" y="88" fill="#e1e1e1" font-size="12">performance dashboards.</text></g>
+    <g transform="translate(23 133)"><rect width="574" height="87" rx="10" fill="#0e0b07" stroke="#8f6100"/><text x="14" y="27" fill="#fff" font-size="14" font-weight="900">Senior UI Engineer</text><text x="14" y="48" fill="#ffc400" font-size="10" font-weight="700">Digital Vanguard · 2021 - 2023</text><text x="14" y="70" fill="#e1e1e1" font-size="12">Built scalable design systems and interactive web applications used by 100k+ users, optimizing Core Web Vitals.</text></g>
+    <g transform="translate(23 248)"><rect width="574" height="106" rx="10" fill="#0e0b07" stroke="#8f6100"/><text x="14" y="27" fill="#fff" font-size="14" font-weight="900">Full Stack Developer</text><text x="14" y="48" fill="#ffc400" font-size="10" font-weight="700">Freelance / Global Clients · 2019 - 2021</text><text x="14" y="70" fill="#e1e1e1" font-size="12">Delivered 20+ high-quality web projects from concept to deployment for international clients, specializing in MERN</text><text x="14" y="88" fill="#e1e1e1" font-size="12">stack.</text></g>
+  </g>
+  <rect y="619" width="1429" height="276" fill="#070707"/>
+  <text x="714" y="706" fill="#fff" font-family="Arial Black, Arial" font-size="24" text-anchor="middle">Premium <tspan fill="#ff8a00">Services</tspan></text>
+  <g transform="translate(305 747)" font-family="Arial" text-anchor="middle">
+    <g><rect width="191" height="139" rx="12" fill="#0e0b07" stroke="#8f6100"/><text x="95" y="48" font-size="28">💻</text><text x="95" y="73" fill="#fff" font-size="14" font-weight="900">Web Development</text><text x="95" y="94" fill="#bbb" font-size="10">Full-stack web applications with</text><text x="95" y="109" fill="#bbb" font-size="10">modern frameworks &amp; blazing</text><text x="95" y="124" fill="#bbb" font-size="10">performance.</text></g>
+    <g transform="translate(207)"><rect width="191" height="139" rx="12" fill="#0e0b07" stroke="#8f6100"/><text x="95" y="48" font-size="28">🎨</text><text x="95" y="73" fill="#fff" font-size="14" font-weight="900">UI/UX Design</text><text x="95" y="94" fill="#bbb" font-size="10">Beautiful, intuitive interfaces with</text><text x="95" y="109" fill="#bbb" font-size="10">smooth animations and accessibility.</text></g>
+    <g transform="translate(414)"><rect width="191" height="139" rx="12" fill="#0e0b07" stroke="#8f6100"/><text x="95" y="48" font-size="28">🧠</text><text x="95" y="73" fill="#fff" font-size="14" font-weight="900">AI Integration</text><text x="95" y="94" fill="#bbb" font-size="10">Smart AI solutions powered by GPT,</text><text x="95" y="109" fill="#bbb" font-size="10">TensorFlow and custom models.</text></g>
+    <g transform="translate(620)"><rect width="191" height="139" rx="12" fill="#0e0b07" stroke="#8f6100"/><text x="95" y="48" font-size="28">🔗</text><text x="95" y="73" fill="#fff" font-size="14" font-weight="900">API Architecture</text><text x="95" y="94" fill="#bbb" font-size="10">Scalable, secure RESTful &amp; GraphQL</text><text x="95" y="109" fill="#bbb" font-size="10">APIs with real-time capabilities.</text></g>
+  </g>
+  <rect x="1421" y="514" width="4" height="220" fill="#ff9d00"/>
+</svg>
